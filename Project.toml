@@ -1,0 +1,13 @@
+name = "METTSAnalysis"
+uuid = "691bd082-a27c-4dbf-812e-78dfa61ae8f5"
+authors = ["Alexander Wietek"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
