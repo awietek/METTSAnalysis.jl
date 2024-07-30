@@ -1,5 +1,6 @@
 module METTSAnalysis
 
-# Write your package code here.
+export prune_analysis, prune
+include("pruning.jl")
 
 end
